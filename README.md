@@ -39,3 +39,6 @@ Then change lines 12 and 13 as follows
 verts = obj_interp.read_verts("name of .obj file (i.e. teapot.obj)")
 faces = obj_interp.read_faces("name of .obj file (i.e. teapot.obj)")
 ```
+## License
+
+This project is available under the [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to learn from it and incorporate it in your own projects.
