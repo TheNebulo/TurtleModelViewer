@@ -24,7 +24,7 @@ python3 main.py
 
 ## Running custom colours and objects
 
-For colour changes, go to line 148 on main.py and change the line with the color wanted.
+For colour changes, go to line 7 and line 148 on main.py and change the line with the color wanted.
 ```python
 t.color("colour of your choice")
 ```
