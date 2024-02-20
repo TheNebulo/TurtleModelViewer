@@ -1,4 +1,4 @@
-# Turtle3D
+# Turtle Model Viewer
 
 ![Wireframe of sample teapot object](https://i.ibb.co/7JcJkS5/image.png)
 
